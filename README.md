@@ -1,9 +1,11 @@
 # EEG-Song-and-Participant-Classifier
 This Deep model is able to classify EEG data recorded while listening to music into its respective song and listener
 
+#
 This Notebook is a two-part project - Song Classifier & Participant Classifier:
 The song classifier uses the same data method presented in the paper of Ramirez-Aristizabel et al. 2022 work, however this model had a slightly different architecture which was also used in the participant classifier. The participant classifier was a complimentary project. Both projects classify EEG data by means of a method inpsired by a technique introduced by Ramirez-Aristizabel et al. 2022
 
+#
 About The Data:
 Data source: https://exhibits.stanford.edu/data/catalog/sd922db3535
 Authors: Kaneshiro, Blair, Nguyen, Duc T., Dmochowski, Jacek P., Norcia, Anthony M., and Berger, Jonathan
